@@ -11,10 +11,10 @@ font-size: 1rem;
 `
 const Container =styled.div`
     width: 100%;
-    max-width: 960px;
     display: flex;
     flex-direction : column;
     justify-content: center;
+    align-items: center;
 `
 const CardContainer =styled.div`
     display:flex;
